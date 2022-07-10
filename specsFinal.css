@@ -1,0 +1,174 @@
+/* Display adjustments */
+title{
+  text-align: center;
+  pos
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  overflow-wrap: break-word;
+}
+
+p{
+  font-weight:bold;
+  font-size: 30;
+}
+
+/* .Col2{
+  position: absolute;
+  right:0;
+  top:0;
+} */
+
+.Comb_Dyno_4{
+  position: absolute;
+  right:0;
+  top:47px;
+
+}
+
+.Comb_Dyno_5{
+  position: absolute;
+  right:0;
+  top:295px;
+  word-wrap: break-word;
+}
+
+.E-Dyno_1{
+  position: absolute;
+  right:0;
+  top:550px;
+}
+
+.E-Dyno_2{
+  /* position: fixed; */
+  text-align: center;
+  left:50%;
+  top:50%;
+  /* transform: translate(-50%, -50%); */
+}
+/* Frame adjustmets */
+ .CB1{
+   width: 100px;
+   height:100px;
+   padding-top:30px;
+   padding-bottom:50px;
+   padding-left: 30;
+   padding-right: 30;
+   text-align: center;
+   border: 3px solid #000000;
+
+  background-color: #ffff00;
+ }
+.CB2{
+  width: 100px;
+  height:100px;
+  padding-top:30px;
+  padding-bottom:50px;
+  padding-left: 30;
+  padding-right: 30;
+  text-align: center;
+  border: 3px solid #000000;
+
+  /* background-color: #4CAF50;  */
+}
+
+.CB3{
+  width: 100px;
+  height:100px;
+  padding-top:30px;
+  padding-bottom:50px;
+  padding-left: 30;
+  padding-right: 30;
+  text-align: center;
+  border: 3px solid #000000;
+
+  /* background-color: #4CAF50;  */
+}
+.CB4{
+  width: 100px;
+  height:100px;
+  position: absolute;
+  right: 0;
+  top:100px;
+  padding-top:30px;
+  padding-bottom:50px;
+  padding-left: 30;
+  padding-right: 30;
+  text-align: center;
+  border: 3px solid #000000;
+
+  /* background-color: #4CAF50;  */
+}
+.CB5{
+  width: 100px;
+  height:100px;
+  position: absolute;
+  right: 0;
+  top:350px;
+  padding-top:30px;
+  padding-bottom:50px;
+  padding-left: 30;
+  padding-right: 30;
+  text-align: center;
+  border: 3px solid #000000;
+
+  /* background-color: #4CAF50;  */
+}
+.ED1{
+  width: 100px;
+  height:100px;
+  position: absolute;
+  right: 0;
+  top:600px;
+  padding-top:30px;
+  padding-bottom:50px;
+  padding-left: 30;
+  padding-right: 30;
+  text-align: center;
+  border: 3px solid #000000;
+
+  /* background-color: #4CAF50;  */
+}
+.ED2{
+  /* width: 100px;
+  height:100px;
+  position: absolute;
+  right: 300px;
+  left: 650px;
+  top:400px; */
+  top:25%;
+  right:50%;
+
+  /* align-self: center; */
+  padding-top:30px;
+  padding-bottom:50px;
+  padding-left: 30;
+  padding-right: 30;
+  text-align: center;
+  border: 3px solid #000000;
+
+  /* background-color: #4CAF50;  */
+}
+
+/* Button Adjustments */
+.button {
+  background-color: #4CAF50;
+  border: none;
+  position: absolute;
+  right: 0;
+  color: white;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.buttonRed {background-color: #f44336;}
+.buttonYellow{background-color: #ffff00;}
+.buttonGreen{background-color: #008000;}
